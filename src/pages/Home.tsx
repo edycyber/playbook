@@ -77,7 +77,7 @@ const Home = () => {
             </div>
             
             <iframe
-              src="https://gumroad.com/"
+              src="https://veamoschat.netlify.app/"
               className="w-full h-[600px] border-0"
               title="Playbook Content"
             />
