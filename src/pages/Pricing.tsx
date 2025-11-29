@@ -113,7 +113,7 @@ const Pricing = () => {
             style={{ animationDelay: "0.3s" }}
           >
             <iframe
-              src="https://gumroad.com/"
+              src="https://sparrowaionline.gumroad.com/l/playbook"
               className="w-full h-[500px] border-0"
               title="Purchase Playbook"
             />
